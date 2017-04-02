@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/text">
+        <file>namepwd.txt</file>
+        <file>academics.txt</file>
+        <file>emotions.txt</file>
+        <file>information.txt</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>ICO.png</file>
+        <file>BG2.png</file>
+        <file>bg.jpg</file>
+    </qresource>
+</RCC>
